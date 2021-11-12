@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RafaelWO
+#### Hi, I’m Rafael 👋
+
 - 👀 I’m interested in programming, data science, game development; space (exploration), biological evolution
 - 🌱 I’m trying to learn new things every day
 - 📫 How to reach me
