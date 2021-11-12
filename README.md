@@ -1,6 +1,11 @@
 #### Hi, I’m Rafael 👋
 
-- 👀 I’m interested in programming, data science, game development; space (exploration), biological evolution
+- 👀 I’m interested in 
+  - ⌨️ programming
+  - 📊 data science
+  - 👾 game development
+  - 🚀 space
+  - 🧬 biological evolution
 - 🌱 I’m trying to learn new things every day
 - 📫 How to reach me
   - 🏢 [LinkedIn](https://at.linkedin.com/in/rafael-weingartner-ortner-b8870614a)
